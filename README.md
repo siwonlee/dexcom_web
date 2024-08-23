@@ -6,3 +6,8 @@ THis is a simple Python script to display the Dexcom glucose level on the web. T
 
 pydexcom 0.4.0 : https://pypi.org/project/pydexcom/
 
+
+## example page
+
+https://joonspa.com/dexcom
+
