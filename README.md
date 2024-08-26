@@ -9,7 +9,7 @@ pydexcom 0.4.0 : https://pypi.org/project/pydexcom/
 ## How to use
 
 Webserver with php interpreter installed is required.
-Put you id and password on the php script(index.php)
+Put your id and password of Dexcom account on the php script(index.php)
 
 
 
