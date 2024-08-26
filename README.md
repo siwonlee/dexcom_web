@@ -1,6 +1,6 @@
 ## About Dexcom web display  
 
-THis is a simple Python script to display the Dexcom glucose level on the web. The script has been tested on Dexcom G7.
+This is a simple php script to display the Dexcom glucose level on the web. The required python package is need to reach Dexcom api. The script has been tested on Dexcom G7.
 
 ## Required Python library
 
