@@ -14,5 +14,4 @@ On the webserver with php interpreter installed, put your id and password of Dex
 
 ## example page
 
-https://joonspa.com/dexcom
-
+https://dexcom.joonspa.com
